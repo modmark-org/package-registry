@@ -1,0 +1,26 @@
+{
+  "math": {
+    "homepage": "https://www.modmark.org",
+    "documentation": "https://github.com/modmark-org/modmark/blob/main/MODMARK.md",
+    "source": "https://github.com/modmark-org/packages/raw/main/bold.wasm",
+    "author": "Modmark"
+  },
+  "citation": {
+    "homepage": "https://www.modmark.org",
+    "documentation": "https://github.com/modmark-org/modmark/blob/main/MODMARK.md",
+    "source": "https://github.com/modmark-org/packages/raw/main/bold.wasm",
+    "author": "Modmark"
+  },
+  "figure": {
+    "homepage": "https://www.modmark.org",
+    "documentation": "https://github.com/modmark-org/modmark/blob/main/MODMARK.md",
+    "source": "https://github.com/modmark-org/packages/raw/main/bold.wasm",
+    "author": "Modmark"
+  },
+  "font": {
+    "homepage": "https://www.modmark.org",
+    "documentation": "https://github.com/modmark-org/modmark/blob/main/MODMARK.md",
+    "source": "https://github.com/modmark-org/packages/raw/main/bold.wasm",
+    "author": "Modmark"
+  }
+}
