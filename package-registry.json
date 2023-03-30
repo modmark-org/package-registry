@@ -26,7 +26,7 @@
   "hello": {
     "homepage": "https://www.modmark.org",
     "documentation": "https://github.com/modmark-org/modmark/blob/main/MODMARK.md",
-    "source": "https://raw.githubusercontent.com/modmark-org/packages/main/hello.wasm",
+    "source": "https://github.com/modmark-org/packages/raw/main/hello.wasm",
     "author": "Modmark"
   }
 }
