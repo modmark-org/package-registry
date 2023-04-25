@@ -1,32 +1,14 @@
 {
-  "math": {
-    "homepage": "https://www.modmark.org",
-    "documentation": "https://github.com/modmark-org/modmark/blob/main/MODMARK.md",
-    "source": "https://github.com/modmark-org/packages/raw/main/bold.wasm",
-    "author": "Modmark"
-  },
-  "citation": {
-    "homepage": "https://www.modmark.org",
-    "documentation": "https://github.com/modmark-org/modmark/blob/main/MODMARK.md",
-    "source": "https://github.com/modmark-org/packages/raw/main/bold.wasm",
-    "author": "Modmark"
-  },
-  "figure": {
-    "homepage": "https://www.modmark.org",
-    "documentation": "https://github.com/modmark-org/modmark/blob/main/MODMARK.md",
-    "source": "https://github.com/modmark-org/packages/raw/main/bold.wasm",
-    "author": "Modmark"
-  },
-  "font": {
-    "homepage": "https://www.modmark.org",
-    "documentation": "https://github.com/modmark-org/modmark/blob/main/MODMARK.md",
-    "source": "https://github.com/modmark-org/packages/raw/main/bold.wasm",
-    "author": "Modmark"
-  },
   "hello": {
     "homepage": "https://www.modmark.org",
     "documentation": "https://github.com/modmark-org/modmark/blob/main/MODMARK.md",
     "source": "https://raw.githubusercontent.com/modmark-org/packages/main/hello.wasm",
     "author": "Modmark"
+  },
+  "prettify": {
+    "homepage": "https://github.com/hugomardbrink/modmark-prettify",
+    "documentation": "https://github.com/hugomardbrink/modmark-prettify/blob/master/README.md",
+    "source": "https://github.com/hugomardbrink/modmark-prettify/releases/download/v1.0/prettify.wasm",
+    "author": "Hugo Mårdbrink"
   }
 }
