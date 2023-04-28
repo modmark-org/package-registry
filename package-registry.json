@@ -10,5 +10,11 @@
     "documentation": "https://github.com/hugomardbrink/modmark-prettify/blob/master/README.md",
     "source": "https://github.com/hugomardbrink/modmark-prettify/releases/download/v1.0/prettify.wasm",
     "author": "Hugo Mårdbrink"
+  },
+  "fen": {
+    "homepage": "https://github.com/Forsinge/modmark-fen",
+    "documentation": "https://github.com/Forsinge/modmark-fen/blob/main/README.md",
+    "source": "https://github.com/Forsinge/modmark-fen/releases/download/v0.1/fen.wasm",
+    "author": "Carl Forsinge"
   }
 }
