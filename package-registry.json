@@ -28,5 +28,11 @@
     "documentation": "https://github.com/bruhng/modmark-vigenere/blob/main/README.md",
     "source": "https://github.com/bruhng/modmark-vigenere/releases/download/v1.0.0/vigenere.wasm",
     "author": "Gustav Bruhn"
+  },
+  "robber" {
+    "homepage": "https://github.com/axoxelol1/modmark-robber",
+    "documentation": "https://github.com/axoxelol1/modmark-robber/blob/main/README.md",
+    "source": "https://github.com/axoxelol1/modmark-robber/releases/download/v1.0.0/robber.wasm",
+    "author": "Axel Larsson"
   }
 }
