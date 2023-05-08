@@ -22,5 +22,11 @@
     "documentation": "https://github.com/CMDJojo/modmark-lorem/blob/main/README.md",
     "source": "https://github.com/CMDJojo/modmark-lorem/releases/download/v0.1/lorem.wasm",
     "author": "Jonathan Widén"
+  },
+  "vigenere": {
+    "homepage": "https://github.com/bruhng/modmark-vigenere"
+    "documentation": "https://github.com/bruhng/modmark-vigenere/blob/main/README.md",
+    "source": "https://github.com/bruhng/modmark-vigenere/releases/download/v1.0.0/vigenere.wasm",
+    "author": "Gustav Bruhn"
   }
 }
