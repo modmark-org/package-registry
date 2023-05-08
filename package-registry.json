@@ -16,5 +16,11 @@
     "documentation": "https://github.com/Forsinge/modmark-fen/blob/main/README.md",
     "source": "https://github.com/Forsinge/modmark-fen/releases/download/v0.1/fen.wasm",
     "author": "Carl Forsinge"
+  },
+  "lorem": {
+    "homepage": "https://github.com/cmdjojo/modmark-lorem",
+    "documentation": "https://github.com/CMDJojo/modmark-lorem/blob/main/README.md",
+    "source": "https://github.com/CMDJojo/modmark-lorem/releases/download/v0.1/lorem.wasm",
+    "author": "Jonathan Widén"
   }
 }
