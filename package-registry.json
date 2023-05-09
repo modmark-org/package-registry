@@ -20,7 +20,7 @@
   "lorem": {
     "homepage": "https://github.com/cmdjojo/modmark-lorem",
     "documentation": "https://github.com/CMDJojo/modmark-lorem/blob/main/README.md",
-    "source": "https://github.com/CMDJojo/modmark-lorem/releases/download/v0.1/lorem.wasm",
+    "source": "https://github.com/CMDJojo/modmark-lorem/releases/download/v0.1.1/lorem.wasm",
     "author": "Jonathan Widén"
   },
   "vigenere": {
