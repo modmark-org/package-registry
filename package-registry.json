@@ -34,5 +34,11 @@
     "documentation": "https://github.com/axoxelol1/modmark-robber/blob/main/README.md",
     "source": "https://github.com/axoxelol1/modmark-robber/releases/download/v1.1.0/robber.wasm",
     "author": "Axel Larsson"
+  },
+  "chalmers-thesis": {
+    "homepage": "https://github.com/modmark-org/modmark-thesis",
+    "documentation": "https://github.com/modmark-org/modmark/blob/main/MODMARK.md",
+    "source": "https://raw.githubusercontent.com/modmark-org/packages/main/chalmers-thesis.wasm",
+    "author": "Modmark"
   }
 }
